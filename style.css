@@ -1,0 +1,65 @@
+body{
+    background-color:hsl(30, 38%, 92%) ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+.prefum{
+    
+    width: 50%;
+}
+
+.div-prefum{
+    width: 50%;
+    border: 0px solid black;
+    background-color: hsl(0, 0%, 100%);
+    padding: 30px;
+}
+
+.chanel{
+    display: flex;
+}
+
+.price{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+ h6{
+    font-size: 15px;
+ }
+
+ h5{
+    text-decoration: line-through;
+    margin-top: 70px;
+ }
+
+ button{
+    width: 100%;
+    height: 50px;
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    border: 0px solid black;
+    margin-top: 60px;
+
+
+ }
+ 
+h1{
+    color: green;
+    margin-top: 70px;
+}
+
+.p1{
+    font-size: 20px;
+}
+
+.h3{
+    font-size: 50px;
+}
+
+
+
